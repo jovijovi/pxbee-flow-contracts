@@ -10,6 +10,9 @@ This repository contains the smart contracts and transactions that implement the
   - Name: `PxbeeMedia`
   - Version: `v0.2.0`
   - [Source](cadence/contracts/PxbeeMedia.cdc)
+  - [Transactions](cadence/transactions)
+  - [Scripts](cadence/scripts)
+  - [Test](test)
 
 ## About Pxbee
 
